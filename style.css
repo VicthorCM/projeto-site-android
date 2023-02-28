@@ -45,6 +45,8 @@ header>p{
     color: rgba(255, 255, 255, 0.53);
     text-align: center;
     font: lighter 1em var(--fonte0);
+    padding-bottom: 20px;
+    margin-bottom: 0px;
 }
 nav{
     background-color: var(--cor05);
